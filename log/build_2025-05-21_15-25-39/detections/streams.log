@@ -1,0 +1,34 @@
+[0.501s] Invoking command in '/home/asaace00/repo/spring/robotic/cameraTest/detections': PYTHONPATH=/home/asaace00/repo/spring/robotic/cameraTest/build/detections/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/asaace00/repo/spring/robotic/cameraTest/install/detections/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/detections build --build-base /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build install --record /home/asaace00/repo/spring/robotic/cameraTest/build/detections/install.log --single-version-externally-managed install_data
+[0.666s] running egg_info
+[0.666s] creating ../build/detections/detections.egg-info
+[0.679s] writing ../build/detections/detections.egg-info/PKG-INFO
+[0.679s] writing dependency_links to ../build/detections/detections.egg-info/dependency_links.txt
+[0.679s] writing requirements to ../build/detections/detections.egg-info/requires.txt
+[0.679s] writing top-level names to ../build/detections/detections.egg-info/top_level.txt
+[0.679s] writing manifest file '../build/detections/detections.egg-info/SOURCES.txt'
+[0.706s] reading manifest file '../build/detections/detections.egg-info/SOURCES.txt'
+[0.706s] writing manifest file '../build/detections/detections.egg-info/SOURCES.txt'
+[0.706s] running build
+[0.706s] running build_py
+[0.706s] creating /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build
+[0.706s] creating /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build/lib
+[0.706s] creating /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build/lib/detections
+[0.706s] copying detections/__init__.py -> /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build/lib/detections
+[0.706s] running install
+[0.710s] running install_lib
+[0.724s] creating /home/asaace00/repo/spring/robotic/cameraTest/install/detections/lib/python3.12/site-packages/detections
+[0.724s] copying /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build/lib/detections/__init__.py -> /home/asaace00/repo/spring/robotic/cameraTest/install/detections/lib/python3.12/site-packages/detections
+[0.724s] byte-compiling /home/asaace00/repo/spring/robotic/cameraTest/install/detections/lib/python3.12/site-packages/detections/__init__.py to __init__.cpython-312.pyc
+[0.724s] running install_data
+[0.724s] creating /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/ament_index
+[0.724s] creating /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/ament_index/resource_index
+[0.725s] creating /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/ament_index/resource_index/packages
+[0.725s] copying resource/detections -> /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/ament_index/resource_index/packages
+[0.725s] copying package.xml -> /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/detections
+[0.725s] copying config/tags.yaml -> /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/detections
+[0.725s] copying launch/setup.launch.py -> /home/asaace00/repo/spring/robotic/cameraTest/install/detections/share/detections
+[0.725s] running install_egg_info
+[0.739s] Copying ../build/detections/detections.egg-info to /home/asaace00/repo/spring/robotic/cameraTest/install/detections/lib/python3.12/site-packages/detections-0.0.0-py3.12.egg-info
+[0.739s] running install_scripts
+[0.825s] writing list of installed files to '/home/asaace00/repo/spring/robotic/cameraTest/build/detections/install.log'
+[0.839s] Invoked command in '/home/asaace00/repo/spring/robotic/cameraTest/detections' returned '0': PYTHONPATH=/home/asaace00/repo/spring/robotic/cameraTest/build/detections/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/asaace00/repo/spring/robotic/cameraTest/install/detections/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/detections build --build-base /home/asaace00/repo/spring/robotic/cameraTest/build/detections/build install --record /home/asaace00/repo/spring/robotic/cameraTest/build/detections/install.log --single-version-externally-managed install_data
